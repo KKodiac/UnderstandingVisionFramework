@@ -78,6 +78,7 @@
 		0BD0D8AA29085FFC00771B16 = {
 			isa = PBXGroup;
 			children = (
+				0BD0D8FF2909713300771B16 /* README.md */,
 				0BD0D8B529085FFC00771B16 /* UnderstandingImagesinVisionFramework */,
 				0BD0D8B429085FFC00771B16 /* Products */,
 			);
@@ -105,7 +106,6 @@
 				0BD0D8BA29085FFE00771B16 /* Assets.xcassets */,
 				0BD0D8BF29085FFE00771B16 /* UnderstandingImagesinVisionFramework.entitlements */,
 				0BD0D8BC29085FFE00771B16 /* Preview Content */,
-				0BD0D8FF2909713300771B16 /* README.md */,
 			);
 			path = UnderstandingImagesinVisionFramework;
 			sourceTree = "<group>";
