@@ -3,5 +3,4 @@
 
 
 
-https://user-images.githubusercontent.com/35219323/198044050-c1e41ca5-8c72-4680-8551-121379622818.mov
-
+![Screen Recording 2022-10-26 at 10 40 57 PM](https://user-images.githubusercontent.com/35219323/198045039-05fee27f-55e4-4113-9ba2-7d7fb8c36368.gif)
